@@ -2,7 +2,6 @@ require("express-async-errors");
 const express=require("express");
 const cors=require("cors");
 const path=require("path");
-const config=require("config");
 
 
 const app=express();
@@ -25,16 +24,14 @@ if(process.env.NODE_ENV == "production"){
 //routes
 require("./startup/routes")(app);
 
-
+//loger
+require("./startup/logger");
 
 (async ()=>{
     await connectMongoDb();
     // await dummyData();
 })()
 
-console.log(process.env.DB_PASSWORD);
-console.log(process.env.JWTPRIVATEKEY);
-console.log(app.get("env"));
 const port=process.env.PORT || 3000;
 
 
