@@ -1,6 +1,6 @@
 {
     "db":{
-        "username": "yasinaacar",
-        "databasename": "charToPicturedb"
+        "username": "<your_username_from_db>",
+        "databasename": "<database_name>"
     }
 }
