@@ -43,3 +43,5 @@ API'nin nasıl kullanıldığını göstermek için bir proje geliştirdim ve bu
 
 https://github.com/yasinaacar/char-to-picture/assets/70544990/9fd1a2a8-159b-4816-ab3d-2827f2c51d27
 
+## Hata ve Öneriler İçin:
+[Bana Ulaş](mailto:yasinaacar@outlook.com)
