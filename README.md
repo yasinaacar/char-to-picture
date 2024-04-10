@@ -42,3 +42,7 @@ The Char To Picture is my first developed Rest API project while learning Node J
 
 ## API'nin Kullanımı :
 API'nin nasıl kullanıldığını göstermek için bir proje geliştirdim ve bunu başka bir repo olarak paylaştım. Bu linke tıklayarak projeyi görebilirsiniz. Aşağıdaki bağlantı linki aracılığıyla uygulamanın kullanım videosunu izleyebilirsiniz
+
+
+https://github.com/yasinaacar/char-to-picture/assets/70544990/9fd1a2a8-159b-4816-ab3d-2827f2c51d27
+
