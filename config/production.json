@@ -1,6 +1,5 @@
 {
     "db":{
-        "username": "<your_username_from_db>",
-        "databasename": "<database_name>"
+        "DB_URI":"mongodb://127.0.0.1:27017/char-to-picture-db"
     }
 }
