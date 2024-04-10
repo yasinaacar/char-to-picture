@@ -4,7 +4,7 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-    "dev": "NODE_ENV=development PORT=3000 DB_PASSWORD=<your_db_password> JWTPRIVATEKEY=<your_secret_key> nodemon app.js",
+    "dev": "NODE_ENV=development PORT=3000 JWTPRIVATEKEY=mysecretkey nodemon app.js",
     "prod": "NODE_ENV=production PORT=8080 nodemon app.js",
     "start": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -22,7 +22,7 @@
     "helmet": "^6.0.0",
     "joi": "^17.11.0",
     "jsonwebtoken": "^8.5.1",
-    "mongoose": "^6.12.3",
+    "mongoose": "^8.3.1",
     "winston": "^3.8.2",
     "winston-mongodb": "^5.1.0"
   }

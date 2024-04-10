@@ -29,7 +29,7 @@ require("./startup/logger");
 
 (async ()=>{
     await connectMongoDb();
-    // await dummyData();
+    await dummyData();
 })()
 
 const port=process.env.PORT || 3000;

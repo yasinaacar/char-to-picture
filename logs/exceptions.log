@@ -1,0 +1,384 @@
+{
+  error: Error: querySrv ENOTFOUND _mongodb._tcp.cluster0.slrguhg.mongodb.net
+      at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:251:17) {
+    errno: undefined,
+    code: 'ENOTFOUND',
+    syscall: 'querySrv',
+    hostname: '_mongodb._tcp.cluster0.slrguhg.mongodb.net'
+  },
+  level: 'error',
+  message: 'unhandledRejection: querySrv ENOTFOUND _mongodb._tcp.cluster0.slrguhg.mongodb.net\n' +
+    'Error: querySrv ENOTFOUND _mongodb._tcp.cluster0.slrguhg.mongodb.net\n' +
+    '    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:251:17)',
+  stack: 'Error: querySrv ENOTFOUND _mongodb._tcp.cluster0.slrguhg.mongodb.net\n' +
+    '    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:251:17)',
+  exception: true,
+  date: 'Wed Apr 10 2024 17:07:20 GMT+0300 (GMT+03:00)',
+  process: {
+    pid: 5852,
+    uid: null,
+    gid: null,
+    cwd: 'C:\\Users\\Yasin\\OneDrive\\Masaüstü\\Projeler\\Back-End Projeleri\\charToPicture',
+    execPath: 'C:\\Program Files\\nodejs\\node.exe',
+    version: 'v20.9.0',
+    argv: [
+      'C:\\Program Files\\nodejs\\node.exe',
+      'C:\\Users\\Yasin\\OneDrive\\Masaüstü\\Projeler\\Back-End Projeleri\\charToPicture\\app.js'
+    ],
+    memoryUsage: {
+      rss: 88674304,
+      heapTotal: 58871808,
+      heapUsed: 36850304,
+      external: 38861675,
+      arrayBuffers: 36508586
+    }
+  },
+  os: { loadavg: [ 0, 0, 0 ], uptime: 1962146.578 },
+  trace: [
+    {
+      column: 17,
+      file: 'node:internal/dns/promises',
+      function: 'QueryReqWrap.onresolve [as oncomplete]',
+      line: 251,
+      method: 'onresolve [as oncomplete]',
+      native: false
+    }
+  ],
+  timestamp: '10-04-2024 17:07:20'
+}
+{
+  error: Error: querySrv ENOTFOUND _mongodb._tcp.cluster0.slrguhg.mongodb.net
+      at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:251:17) {
+    errno: undefined,
+    code: 'ENOTFOUND',
+    syscall: 'querySrv',
+    hostname: '_mongodb._tcp.cluster0.slrguhg.mongodb.net'
+  },
+  level: 'error',
+  message: 'unhandledRejection: querySrv ENOTFOUND _mongodb._tcp.cluster0.slrguhg.mongodb.net\n' +
+    'Error: querySrv ENOTFOUND _mongodb._tcp.cluster0.slrguhg.mongodb.net\n' +
+    '    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:251:17)',
+  stack: 'Error: querySrv ENOTFOUND _mongodb._tcp.cluster0.slrguhg.mongodb.net\n' +
+    '    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:251:17)',
+  exception: true,
+  date: 'Wed Apr 10 2024 17:09:19 GMT+0300 (GMT+03:00)',
+  process: {
+    pid: 20068,
+    uid: null,
+    gid: null,
+    cwd: 'C:\\Users\\Yasin\\OneDrive\\Masaüstü\\Projeler\\Back-End Projeleri\\charToPicture',
+    execPath: 'C:\\Program Files\\nodejs\\node.exe',
+    version: 'v20.9.0',
+    argv: [
+      'C:\\Program Files\\nodejs\\node.exe',
+      'C:\\Users\\Yasin\\OneDrive\\Masaüstü\\Projeler\\Back-End Projeleri\\charToPicture\\app.js'
+    ],
+    memoryUsage: {
+      rss: 88944640,
+      heapTotal: 58871808,
+      heapUsed: 36854496,
+      external: 38861675,
+      arrayBuffers: 36508586
+    }
+  },
+  os: { loadavg: [ 0, 0, 0 ], uptime: 1962266.125 },
+  trace: [
+    {
+      column: 17,
+      file: 'node:internal/dns/promises',
+      function: 'QueryReqWrap.onresolve [as oncomplete]',
+      line: 251,
+      method: 'onresolve [as oncomplete]',
+      native: false
+    }
+  ],
+  timestamp: '10-04-2024 17:09:19'
+}
+{
+  error: Error: querySrv ENOTFOUND _mongodb._tcp.cluster0.slrguhg.mongodb.net
+      at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:251:17) {
+    errno: undefined,
+    code: 'ENOTFOUND',
+    syscall: 'querySrv',
+    hostname: '_mongodb._tcp.cluster0.slrguhg.mongodb.net'
+  },
+  level: 'error',
+  message: 'unhandledRejection: querySrv ENOTFOUND _mongodb._tcp.cluster0.slrguhg.mongodb.net\n' +
+    'Error: querySrv ENOTFOUND _mongodb._tcp.cluster0.slrguhg.mongodb.net\n' +
+    '    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:251:17)',
+  stack: 'Error: querySrv ENOTFOUND _mongodb._tcp.cluster0.slrguhg.mongodb.net\n' +
+    '    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:251:17)',
+  exception: true,
+  date: 'Wed Apr 10 2024 17:12:07 GMT+0300 (GMT+03:00)',
+  process: {
+    pid: 19200,
+    uid: null,
+    gid: null,
+    cwd: 'C:\\Users\\Yasin\\OneDrive\\Masaüstü\\Projeler\\Back-End Projeleri\\charToPicture',
+    execPath: 'C:\\Program Files\\nodejs\\node.exe',
+    version: 'v20.9.0',
+    argv: [
+      'C:\\Program Files\\nodejs\\node.exe',
+      'C:\\Users\\Yasin\\OneDrive\\Masaüstü\\Projeler\\Back-End Projeleri\\charToPicture\\app.js'
+    ],
+    memoryUsage: {
+      rss: 88969216,
+      heapTotal: 59133952,
+      heapUsed: 36607056,
+      external: 38861675,
+      arrayBuffers: 36508586
+    }
+  },
+  os: { loadavg: [ 0, 0, 0 ], uptime: 1962433.875 },
+  trace: [
+    {
+      column: 17,
+      file: 'node:internal/dns/promises',
+      function: 'QueryReqWrap.onresolve [as oncomplete]',
+      line: 251,
+      method: 'onresolve [as oncomplete]',
+      native: false
+    }
+  ],
+  timestamp: '10-04-2024 17:12:07'
+}
+{
+  error: Error: querySrv ENOTFOUND _mongodb._tcp.cluster0.slrguhg.mongodb.net
+      at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:251:17) {
+    errno: undefined,
+    code: 'ENOTFOUND',
+    syscall: 'querySrv',
+    hostname: '_mongodb._tcp.cluster0.slrguhg.mongodb.net'
+  },
+  level: 'error',
+  message: 'unhandledRejection: querySrv ENOTFOUND _mongodb._tcp.cluster0.slrguhg.mongodb.net\n' +
+    'Error: querySrv ENOTFOUND _mongodb._tcp.cluster0.slrguhg.mongodb.net\n' +
+    '    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:251:17)',
+  stack: 'Error: querySrv ENOTFOUND _mongodb._tcp.cluster0.slrguhg.mongodb.net\n' +
+    '    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:251:17)',
+  exception: true,
+  date: 'Wed Apr 10 2024 17:13:56 GMT+0300 (GMT+03:00)',
+  process: {
+    pid: 11292,
+    uid: null,
+    gid: null,
+    cwd: 'C:\\Users\\Yasin\\OneDrive\\Masaüstü\\Projeler\\Back-End Projeleri\\charToPicture',
+    execPath: 'C:\\Program Files\\nodejs\\node.exe',
+    version: 'v20.9.0',
+    argv: [
+      'C:\\Program Files\\nodejs\\node.exe',
+      'C:\\Users\\Yasin\\OneDrive\\Masaüstü\\Projeler\\Back-End Projeleri\\charToPicture\\app.js'
+    ],
+    memoryUsage: {
+      rss: 89067520,
+      heapTotal: 58871808,
+      heapUsed: 36625680,
+      external: 38861675,
+      arrayBuffers: 36508586
+    }
+  },
+  os: { loadavg: [ 0, 0, 0 ], uptime: 1962543.031 },
+  trace: [
+    {
+      column: 17,
+      file: 'node:internal/dns/promises',
+      function: 'QueryReqWrap.onresolve [as oncomplete]',
+      line: 251,
+      method: 'onresolve [as oncomplete]',
+      native: false
+    }
+  ],
+  timestamp: '10-04-2024 17:13:56'
+}
+{
+  error: Error: querySrv ENOTFOUND _mongodb._tcp.cluster0.slrguhg.mongodb.net
+      at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:251:17) {
+    errno: undefined,
+    code: 'ENOTFOUND',
+    syscall: 'querySrv',
+    hostname: '_mongodb._tcp.cluster0.slrguhg.mongodb.net'
+  },
+  level: 'error',
+  message: 'unhandledRejection: querySrv ENOTFOUND _mongodb._tcp.cluster0.slrguhg.mongodb.net\n' +
+    'Error: querySrv ENOTFOUND _mongodb._tcp.cluster0.slrguhg.mongodb.net\n' +
+    '    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:251:17)',
+  stack: 'Error: querySrv ENOTFOUND _mongodb._tcp.cluster0.slrguhg.mongodb.net\n' +
+    '    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:251:17)',
+  exception: true,
+  date: 'Wed Apr 10 2024 17:14:35 GMT+0300 (GMT+03:00)',
+  process: {
+    pid: 9508,
+    uid: null,
+    gid: null,
+    cwd: 'C:\\Users\\Yasin\\OneDrive\\Masaüstü\\Projeler\\Back-End Projeleri\\charToPicture',
+    execPath: 'C:\\Program Files\\nodejs\\node.exe',
+    version: 'v20.9.0',
+    argv: [
+      'C:\\Program Files\\nodejs\\node.exe',
+      'C:\\Users\\Yasin\\OneDrive\\Masaüstü\\Projeler\\Back-End Projeleri\\charToPicture\\app.js'
+    ],
+    memoryUsage: {
+      rss: 89264128,
+      heapTotal: 59133952,
+      heapUsed: 36669792,
+      external: 38861675,
+      arrayBuffers: 36508586
+    }
+  },
+  os: { loadavg: [ 0, 0, 0 ], uptime: 1962581.359 },
+  trace: [
+    {
+      column: 17,
+      file: 'node:internal/dns/promises',
+      function: 'QueryReqWrap.onresolve [as oncomplete]',
+      line: 251,
+      method: 'onresolve [as oncomplete]',
+      native: false
+    }
+  ],
+  timestamp: '10-04-2024 17:14:35'
+}
+{
+  error: Error: querySrv ENOTFOUND _mongodb._tcp.cluster0.slrguhg.mongodb.net
+      at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:251:17) {
+    errno: undefined,
+    code: 'ENOTFOUND',
+    syscall: 'querySrv',
+    hostname: '_mongodb._tcp.cluster0.slrguhg.mongodb.net'
+  },
+  level: 'error',
+  message: 'unhandledRejection: querySrv ENOTFOUND _mongodb._tcp.cluster0.slrguhg.mongodb.net\n' +
+    'Error: querySrv ENOTFOUND _mongodb._tcp.cluster0.slrguhg.mongodb.net\n' +
+    '    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:251:17)',
+  stack: 'Error: querySrv ENOTFOUND _mongodb._tcp.cluster0.slrguhg.mongodb.net\n' +
+    '    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:251:17)',
+  exception: true,
+  date: 'Wed Apr 10 2024 17:14:46 GMT+0300 (GMT+03:00)',
+  process: {
+    pid: 11160,
+    uid: null,
+    gid: null,
+    cwd: 'C:\\Users\\Yasin\\OneDrive\\Masaüstü\\Projeler\\Back-End Projeleri\\charToPicture',
+    execPath: 'C:\\Program Files\\nodejs\\node.exe',
+    version: 'v20.9.0',
+    argv: [
+      'C:\\Program Files\\nodejs\\node.exe',
+      'C:\\Users\\Yasin\\OneDrive\\Masaüstü\\Projeler\\Back-End Projeleri\\charToPicture\\app.js'
+    ],
+    memoryUsage: {
+      rss: 89092096,
+      heapTotal: 58871808,
+      heapUsed: 36480408,
+      external: 38861675,
+      arrayBuffers: 36508586
+    }
+  },
+  os: { loadavg: [ 0, 0, 0 ], uptime: 1962592.656 },
+  trace: [
+    {
+      column: 17,
+      file: 'node:internal/dns/promises',
+      function: 'QueryReqWrap.onresolve [as oncomplete]',
+      line: 251,
+      method: 'onresolve [as oncomplete]',
+      native: false
+    }
+  ],
+  timestamp: '10-04-2024 17:14:46'
+}
+{
+  error: Error: querySrv ENOTFOUND _mongodb._tcp.cluster0.slrguhg.mongodb.net
+      at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:251:17) {
+    errno: undefined,
+    code: 'ENOTFOUND',
+    syscall: 'querySrv',
+    hostname: '_mongodb._tcp.cluster0.slrguhg.mongodb.net'
+  },
+  level: 'error',
+  message: 'unhandledRejection: querySrv ENOTFOUND _mongodb._tcp.cluster0.slrguhg.mongodb.net\n' +
+    'Error: querySrv ENOTFOUND _mongodb._tcp.cluster0.slrguhg.mongodb.net\n' +
+    '    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:251:17)',
+  stack: 'Error: querySrv ENOTFOUND _mongodb._tcp.cluster0.slrguhg.mongodb.net\n' +
+    '    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:251:17)',
+  exception: true,
+  date: 'Wed Apr 10 2024 17:14:50 GMT+0300 (GMT+03:00)',
+  process: {
+    pid: 10112,
+    uid: null,
+    gid: null,
+    cwd: 'C:\\Users\\Yasin\\OneDrive\\Masaüstü\\Projeler\\Back-End Projeleri\\charToPicture',
+    execPath: 'C:\\Program Files\\nodejs\\node.exe',
+    version: 'v20.9.0',
+    argv: [
+      'C:\\Program Files\\nodejs\\node.exe',
+      'C:\\Users\\Yasin\\OneDrive\\Masaüstü\\Projeler\\Back-End Projeleri\\charToPicture\\app.js'
+    ],
+    memoryUsage: {
+      rss: 89006080,
+      heapTotal: 59133952,
+      heapUsed: 36704176,
+      external: 38861675,
+      arrayBuffers: 36508586
+    }
+  },
+  os: { loadavg: [ 0, 0, 0 ], uptime: 1962596.625 },
+  trace: [
+    {
+      column: 17,
+      file: 'node:internal/dns/promises',
+      function: 'QueryReqWrap.onresolve [as oncomplete]',
+      line: 251,
+      method: 'onresolve [as oncomplete]',
+      native: false
+    }
+  ],
+  timestamp: '10-04-2024 17:14:50'
+}
+{
+  error: Error: querySrv ENOTFOUND _mongodb._tcp.cluster0.slrguhg.mongodb.net
+      at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:251:17) {
+    errno: undefined,
+    code: 'ENOTFOUND',
+    syscall: 'querySrv',
+    hostname: '_mongodb._tcp.cluster0.slrguhg.mongodb.net'
+  },
+  level: 'error',
+  message: 'unhandledRejection: querySrv ENOTFOUND _mongodb._tcp.cluster0.slrguhg.mongodb.net\n' +
+    'Error: querySrv ENOTFOUND _mongodb._tcp.cluster0.slrguhg.mongodb.net\n' +
+    '    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:251:17)',
+  stack: 'Error: querySrv ENOTFOUND _mongodb._tcp.cluster0.slrguhg.mongodb.net\n' +
+    '    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:251:17)',
+  exception: true,
+  date: 'Wed Apr 10 2024 17:15:28 GMT+0300 (GMT+03:00)',
+  process: {
+    pid: 9576,
+    uid: null,
+    gid: null,
+    cwd: 'C:\\Users\\Yasin\\OneDrive\\Masaüstü\\Projeler\\Back-End Projeleri\\charToPicture',
+    execPath: 'C:\\Program Files\\nodejs\\node.exe',
+    version: 'v20.9.0',
+    argv: [
+      'C:\\Program Files\\nodejs\\node.exe',
+      'C:\\Users\\Yasin\\OneDrive\\Masaüstü\\Projeler\\Back-End Projeleri\\charToPicture\\app.js'
+    ],
+    memoryUsage: {
+      rss: 88588288,
+      heapTotal: 59023360,
+      heapUsed: 36561288,
+      external: 38848086,
+      arrayBuffers: 36508421
+    }
+  },
+  os: { loadavg: [ 0, 0, 0 ], uptime: 1962634.656 },
+  trace: [
+    {
+      column: 17,
+      file: 'node:internal/dns/promises',
+      function: 'QueryReqWrap.onresolve [as oncomplete]',
+      line: 251,
+      method: 'onresolve [as oncomplete]',
+      native: false
+    }
+  ],
+  timestamp: '10-04-2024 17:15:28'
+}
