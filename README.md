@@ -1,10 +1,8 @@
-# Char To Picture NEDİR ? / What is the Char To Picture ?
+# Char To Picture NEDİR ?
 
 Char to Picture Node JS öğrenme sürecinde geliştirdiğim ilk Rest API projesidir. Bu proje uygulamanızda kullanıcının girdiği isim bilgisinin baş harfine göre varsayılan olarak bir profil fotoğrafı ayarlamanızı sağlar. Örneğin adı "Ahmet" olan bir kullanıcı için profil fotoğrafı varsayılan olarak "A" harfini içeren resim olarak ayarlanır.
 
-The Char To Picture is my first developed Rest API project while learning Node JS. This project allows you to set a default profile photo in your apllication based on the initials of the name entered by user. For example, the profile photo of a user whose name is "John" is set to an image containing the letter "J" by default.
-
-## Kullanılan Paketler / Packages Used
+## Kullanılan Paketler 
 1. #### [BCRYPT](https://www.npmjs.com/package/bcrypt)
    ```npm i bcrypt@5.1.1```
 2. #### [COMPRESSION](https://www.npmjs.com/package/compression)
@@ -32,12 +30,14 @@ The Char To Picture is my first developed Rest API project while learning Node J
 13. #### [NODEMON](npm i nodemon)
     ```npm i nodemon```
 
-## Nasıl Kurulur ? How to install ?
-*  Projeyi kendinize klonlayın / Clone the project
-*  Yukarıda belirttiğim paketleri versiyonlarına göre projeye kurun Bknz: Kullanılan Paketler / İnstall packages with versions see: Packages Used
+## Nasıl Kurulur ? 
+*  Projeyi kendinize klonlayın
+*  Yukarıda belirttiğim paketleri versiyonlarına göre projeye kurun Bknz: Kullanılan Paketler
 *  Config klasörünün içindeki development.json ve production.js dosylarında "db" kısmındaki bilgileri kendi veri tabanı bilgilerinize göre güncelleyin
 *  package.json dosyasına giderek DB_PASSWORD ve JWTPRIVATEKEY kısmındaki bilgileri kendi bilgilerinize göre güncelleyin.
   DB_PASSWORD : Veri tabanı şifreniz
   JWTPRIVATEKEY : Token oluşturma işlemlerinde kullanılmak üzere rastgele verceğiniz bir değer
 * app.js dosyasına giderek 32. satırda bulunan ```await dummyData()``` fonksiyonunu yorum satırından kaldırın ve sonrasında terminale ```npm run dev ``` komutunu yazarak uygulamayı başlatabilirsiniz. Uygulamayı başlattıktan sonra ```await dummyData()``` fonksiyonunu tekrar yorum içine alabilirsiniz.
 
+## Hata ve Öneriler İçin:
+[Bana Ulaş](mailto:yasinaacar@outlook.com)
